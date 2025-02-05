@@ -10,4 +10,4 @@ title: 为什么装载OpenLink后，无法直接进入游戏
 请参考[为什么在开启游戏后显示未在本地找到Frpc，并需要强制更新](../../常见问题/No_frpc_found_in_local_storage)
 
 - **在Frpc下载中等待过多时间**  
-请参考[为什么Frpc下载会出现错误](../../常见问题/Frpc_download_wronG)。
+请参考[为什么Frpc下载会出现错误](../../常见问题/Frpc_download_wronG)或[为什么Frpc下载过慢](../../常见问题/Frpc_download_sloW)。
