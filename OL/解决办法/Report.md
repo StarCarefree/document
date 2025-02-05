@@ -7,13 +7,11 @@ title: 如何上报问题
 
 ## 1. 进行日志分析
 
-请参考[如何分析日志](./LogAnalysis)。
+请参考[如何分析日志](../LogAnalysis)。
 
 ## 2. 提出Issue
 
 在我们的GitHub仓库的[Issues的提出页面](https://github.com/StarCarefree/OpenLink/issues/new/choose)中选择您遇到的问题。  
-![issue_choose](../imgs/issue_choose.png)  
-![issue_problem](../imgs/issue_problem.png)   
 1. 在选项中选择第二项（问题提交）并在弹出的页面中根据提示填入`标题`、`检查项`、`模组版本`、`加载器及其版本`。  
 2. 将日志分析后得到的问题概述填在`遇到的问题`中，并在后几项中简明阐述问题的期望结果及复现过程。
 3. 在`可能造成问题的原因`项中可以填上您认为游戏是因为什么问题导致出现错误的（选填）。  
